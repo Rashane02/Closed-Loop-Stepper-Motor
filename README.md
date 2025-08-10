@@ -63,8 +63,8 @@ An **outer position loop** feeds commands to the speed loop – enabling high-pr
 
 🖼 *Compact design built for performance testing*  
 
-![Prototype](https://github.com/user-attachments/assets/d901d41d-3a4a-47de-bba0-d745e491a199)  
-![Prototype](https://github.com/user-attachments/assets/c8f5a225-2fad-4fe8-bc09-63f01f6fe618)  
+![Prototype](./Assets/Enclosure_!.jpg)  
+![Prototype](./Assets/Enclosure_2.jpg)  
 
 ---
 
@@ -76,8 +76,8 @@ A **4-layer PCB** designed for **thermal efficiency**, **signal integrity**, and
 - ✅ Carefully routed encoder & current sense lines for **accurate feedback**.  
 - ✅ Built-in dead-time safe switching logic.  
 
-![PCB](https://github.com/user-attachments/assets/f14de196-a4a8-4fa2-bf8c-45a497991b9d)  
-![PCB](https://github.com/user-attachments/assets/4b3434ad-3483-46ad-9b8a-935943d19034)  
+![PCB](./Assets/pcb.jpg)  
+![PCB](./Assets/pcb_2.jpg)  
 
 ---
 
